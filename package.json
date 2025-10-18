@@ -23,7 +23,7 @@
   "license": "MIT",
   "dependencies": {
     "d3": "^7.9.0",
-    "jsdom": "^16.7.0"
+    "jsdom": "27.0.1"
   },
   "devDependencies": {
     "@types/d3": "^7.4.3",
